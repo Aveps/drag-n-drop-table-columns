@@ -1,7 +1,7 @@
 Drag & Drop Table Columns
 =========================
 
-Demo page https://github.com/Aveps/drag-n-drop-table-columns)
+Demo page https://aveps.github.io/drag-n-drop-table-columns
 
 Work in IE9+, Google Chrome, Mozzila Firefox
 
